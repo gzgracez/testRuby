@@ -1,2 +1,3 @@
-# testRuby
-A calculator and twilio program in Ruby
+# Trying out Ruby
+*A basic calculator 
+*A Twilio messaging program in Ruby
